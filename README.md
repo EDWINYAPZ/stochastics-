@@ -1,0 +1,2 @@
+# stochastics-
+analysis the stock
